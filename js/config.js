@@ -5,6 +5,7 @@ window._config = {
         region: 'us-east-1' // e.g. us-east-2
     },
     api: {
-        invokeUrl: 'https://3g3k6wxrmk.execute-api.us-east-1.amazonaws.com/Production' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod' This Url From Api Gateway Deploy,
+        invokeUrl: 'https://6wjxuccbjb.execute-api.us-east-1.amazonaws.com/Production' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod'
+
     }
 };
